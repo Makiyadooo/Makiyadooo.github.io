@@ -1,0 +1,12 @@
+---
+title: "Welcome to Makiyadooo's Website"
+author: "Makiyadooo"
+date: "2025-02-02"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World
+
+Welcome to my Quarto website.
