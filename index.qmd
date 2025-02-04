@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Makiyadooo's Website"
+title: "Makiyadooo's Fantasy Site"
 author: "Makiyadooo"
 date: "2025-02-02"
 format:
@@ -7,6 +7,9 @@ format:
     theme: journal
     toc: true
 ---
-# Hello, World
+# Hello, World~
 
 Welcome to my Quarto website.
+Here are some fun fact about me
+- 1
+- 2
