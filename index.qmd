@@ -10,6 +10,4 @@ format:
 # Hello, World~
 
 Welcome to my Quarto website.
-Here are some fun fact about me
-- 1
-- 2
+Here are some fun fact about me:

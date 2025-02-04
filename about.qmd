@@ -1,5 +1,14 @@
 ---
 title: "About"
+author: "Makiyadooo"
+date: "2025-02-10"
+format:
+  html:
+    toc: true
+    theme: cosmo
 ---
+#About Me
+- **Name**：Makiyadooo
+- **Habits**：Piano, Traveling, Guitar, Video Games
 
 About this site
